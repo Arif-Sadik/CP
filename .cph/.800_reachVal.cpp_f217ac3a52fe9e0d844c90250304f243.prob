@@ -1,0 +1,1 @@
+{"name":"Local: 800_reachVal","url":"d:\\VS_Code\\800_reachVal.cpp","tests":[{"id":1757001190232,"input":"5\n1\n2\n10\n25\n200\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\800_reachVal.cpp","group":"local","local":true}

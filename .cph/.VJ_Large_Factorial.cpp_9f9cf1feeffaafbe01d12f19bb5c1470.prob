@@ -1,0 +1,1 @@
+{"name":"Local: VJ_Large_Factorial","url":"d:\\VS_Code\\VJ_Large_Factorial.cpp","tests":[{"id":1761933367063,"input":"1\n5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\VJ_Large_Factorial.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 900_socks","url":"d:\\VS_Code\\900_socks.cpp","tests":[{"id":1762200908113,"input":"2 2\n","output":""},{"id":1762200921423,"input":"9 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\900_socks.cpp","group":"local","local":true}

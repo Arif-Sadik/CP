@@ -1,0 +1,1 @@
+{"name":"Local: CC_187A","url":"d:\\VS_Code\\CC_187A.cpp","tests":[{"id":1747838109895,"input":"6\n0\n3\n6\n8\n10\n11\n","output":"YES\nYES\nYES\nNO\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\CC_187A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: VJ_Euler","url":"d:\\VS_Code\\VJ_Euler.cpp","tests":[{"id":1761932681826,"input":"2\n3\n10","output":"22\n2640"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\VJ_Euler.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Sum_Gcd","url":"d:\\VS_Code\\Sum_Gcd.cpp","tests":[{"id":1769944204636,"input":"200\n","output":"10813692\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\Sum_Gcd.cpp","group":"local","local":true}

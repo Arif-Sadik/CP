@@ -1,0 +1,1 @@
+{"name":"Local: map_F","url":"d:\\VS_Code\\map_F.cpp","tests":[{"id":1747745018778,"input":"6\n2 1 3 2 100 3\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\map_F.cpp","group":"local","local":true}

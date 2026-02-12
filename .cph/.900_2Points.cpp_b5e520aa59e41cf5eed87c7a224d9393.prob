@@ -1,0 +1,1 @@
+{"name":"Local: 900_2Points","url":"d:\\VS_Code\\900_2Points.cpp","tests":[{"id":1764175536198,"input":"7\nABACABA\n\n","output":""},{"id":1764175926796,"input":"5\nZZZAA\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\900_2Points.cpp","group":"local","local":true}

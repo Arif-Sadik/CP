@@ -1,0 +1,1 @@
+{"name":"Local: 900_Odd_divisors","url":"d:\\VS_Code\\900_Odd_divisors.cpp","tests":[{"id":1750438105636,"input":"6\n2\n3\n4\n5\n998244353\n1099511627776\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\900_Odd_divisors.cpp","group":"local","local":true}

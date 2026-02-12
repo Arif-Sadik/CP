@@ -1,0 +1,1 @@
+{"name":"Local: Phitron_e","url":"d:\\VS_Code\\Phitron_e.cpp","tests":[{"id":1767112652131,"input":"9 4\n1 2 2 5 4 4 3 2 1\n1 9\n1 3\n6 9\n5 6","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\Phitron_e.cpp","group":"local","local":true}

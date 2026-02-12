@@ -1,0 +1,1 @@
+{"name":"Local: CC_198_e","url":"d:\\VS_Code\\CC_198_e.cpp","tests":[{"id":1754496216595,"input":"3\n3\n010\n4\n0100\n5\n01011","output":"1\n-1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\CC_198_e.cpp","group":"local","local":true}

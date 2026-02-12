@@ -1,0 +1,1 @@
+{"name":"Local: 900_newyear","url":"d:\\VS_Code\\900_newyear.cpp","tests":[{"id":1762026644619,"input":"5\n1\n4041\n4042\n8081\n8079\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\900_newyear.cpp","group":"local","local":true}

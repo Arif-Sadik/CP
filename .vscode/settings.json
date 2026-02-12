@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "stdio.h": "c",
+        "type_traits": "cpp",
+        "new": "cpp",
+        "random": "cpp",
+        "chrono": "cpp"
+    }
+}

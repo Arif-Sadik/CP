@@ -1,0 +1,1 @@
+{"name":"Local: 800_LCM","url":"d:\\VS_Code\\800_LCM.cpp","tests":[{"id":1757002916620,"input":"4\n1 1337\n13 69\n2 4\n88 89\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\800_LCM.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CF_1027_C","url":"d:\\VS_Code\\CF_1027_C.cpp","tests":[{"id":1748276015112,"input":"6\n6\n1 2 3 4 5 6\n3\n1 2 3\n4\n1 2 2 4\n1\n2\n3\n1 4 8\n2\n1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\CF_1027_C.cpp","group":"local","local":true}

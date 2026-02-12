@@ -1,0 +1,1 @@
+{"name":"Local: VJ_Easysum","url":"d:\\VS_Code\\VJ_Easysum.cpp","tests":[{"id":1761934756522,"input":"5 6 7\n","output":"1520"},{"id":1761934793089,"input":"2 2 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\VJ_Easysum.cpp","group":"local","local":true}

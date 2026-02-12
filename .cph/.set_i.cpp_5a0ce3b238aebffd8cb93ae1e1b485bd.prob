@@ -1,0 +1,1 @@
+{"name":"Local: set_i","url":"d:\\VS_Code\\set_i.cpp","tests":[{"id":1748695800656,"input":"3\n1 2\n1\n3 4\n3 2\n1 3 4\n2 4\n9 14\n2 7 16 28 33 57 59 86 99\n3 9 14 19 25 26 28 35 41 59 85 87 99 100\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\set_i.cpp","group":"local","local":true}

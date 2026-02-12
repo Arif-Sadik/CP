@@ -1,0 +1,1 @@
+{"name":"Local: STL_B","url":"d:\\VS_Code\\STL_B.cpp","tests":[{"id":1752310942978,"input":"4\nbaa\nskibidus\ncc\nohio\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\STL_B.cpp","group":"local","local":true}

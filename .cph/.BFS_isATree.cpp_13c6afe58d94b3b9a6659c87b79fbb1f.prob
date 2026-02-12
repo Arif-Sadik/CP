@@ -1,0 +1,1 @@
+{"name":"Local: BFS_isATree","url":"d:\\VS_Code\\BFS_isATree.cpp","tests":[{"id":1758482153136,"input":"3 2\n1 2\n2 3\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\BFS_isATree.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CC_187C","url":"d:\\VS_Code\\CC_187C.cpp","tests":[{"id":1747843789309,"input":"3\n4 4 10\n4 4 1\n5 9 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\CC_187C.cpp","group":"local","local":true}
