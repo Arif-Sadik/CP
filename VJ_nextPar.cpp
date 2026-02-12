@@ -8,6 +8,7 @@ using namespace std;
 // Date: 2026-02-06
 int main()
 {
+    //s
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
     ll n,k,x, c, s, d, t;
