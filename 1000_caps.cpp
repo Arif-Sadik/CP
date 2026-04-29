@@ -5,14 +5,17 @@
 using namespace std;
 
 // Md. Arif Sadik Molla
-// Date: 2026-03-15
+// Date: 2026-04-30
 int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
-    ll n,k,x, c, s, d, t;
-    cin>>n>>k;
-    cout<<(n|k);
+    ll n,k,x, c, d, t;
+    string s;
+    cin>>s;
+    transform(s.begin(),s.end(), s.begin(),::tolower);
+    s[0]=s[0]-32;
+    cout<<s;
 
 
     return 0;

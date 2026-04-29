@@ -1,0 +1,1 @@
+{"name":"Local: CF_1080_B","url":"d:\\VS_Code\\CF_1080_B.cpp","tests":[{"id":1771168260953,"input":"2\n5\n1 4 3 2 5\n5\n1 4 2 3 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\CF_1080_B.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: MCM_me","url":"d:\\VS_Code\\MCM_me.cpp","tests":[{"id":1775411875565,"input":"4\n10 30 5 60","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\MCM_me.cpp","group":"local","local":true}

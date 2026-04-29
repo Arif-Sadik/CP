@@ -1,0 +1,1 @@
+{"name":"Local: abc","url":"d:\\VS_Code\\abc.cpp","tests":[{"id":1773567757831,"input":"3 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS_Code\\abc.cpp","group":"local","local":true}
